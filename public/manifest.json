@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Vocalis AI - Realistic Voice Studio",
+  "short_name": "Vocalis AI",
+  "description": "ElevenLabs-style AI Voice Generator and Speech-to-Speech Voice Changer",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080B11",
+  "theme_color": "#F97316",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

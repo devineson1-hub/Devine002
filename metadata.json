@@ -1,0 +1,10 @@
+{
+  "name": "Remix Vocalis ai - Realistic Voice Studio",
+  "description": "An ElevenLabs-style AI voice generator and speech-to-speech voice changer. Convert audio into realistic voices, generate expressive speech from text, and upload text files with custom voices.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
